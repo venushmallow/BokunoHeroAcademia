@@ -1,0 +1,132 @@
+/*ABOUT*/
+*{margin:0px; padding:0px;}
+	body{background-image:url(bnha/66ff42c5260d8adad9e9d4eff3ef7e7e.jpg);}
+	
+	#wrapper{width:1000px; min-height:2500px; margin:auto; background-image:url("bnha/wrapper.jpg");}
+	
+	#header{height:333px; width:1000px; background-image:url(bnha/header.jpg);}
+	
+	#menu{border:1px orange solid; background-color:orange; height:50px; width:1000px; margin-top:5px;}
+		#menu ul li{text-align:center; width:200px; float:left; list-style:none; padding-top:17.5px; padding bottom:17.5px; font-size:16px;}
+		#menu ul li a{text-decoration:none; display:block;}
+		#menu a: hover{color:pink; !important;}
+	
+#content1{width:960px; height:360px; margin-top: 10px; padding-left:20px; padding-right:20px; margin-bottom:30px;}
+#header h1{margin-top:10px;}
+#content1 img{width:450px; height:350px; float:right; padding-left:10px; margin-top:10px;}
+#content1 p { font-size:16px; font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; color:black; margin-top: 10px; padding-left:20px; text-align:justify;}
+
+#content2{width:960px; height:300px; margin-top:70px; padding-left:20px; padding-right:20px;}
+#header h1{font-size:70px;}
+#content2 img{width:220px; height:312px; float:left; padding-right:15px;}
+#content2 p { font-size:16px; font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; color:black; text-align:justify; padding-left:20px; margin-top:50px; }
+
+#content3{width:960px; height:430px; margin-top:70px; padding-left:20px; padding-right:20px;}
+#content3 img{float:right; width:350px; height:248px;}
+#content3 p { font-size:16px;}
+
+#content16{width:960px; height:300px; margin-top:70px; padding-left:20px; padding-right:20px;}
+#content16 img{float:left; width:300px; padding-right: 10px; padding-top: 10px;}
+
+#footer{font-size:20px; text-align:center;}
+/*************************************************************************************************************/
+/*CHARACTERS*/
+*{margin:0px; padding:0px;}
+	body{background-image:url(bnha/66ff42c5260d8adad9e9d4eff3ef7e7e.jpg);}
+	
+	#wrapper{width:1000px; min-height:2500px; margin:auto; background-image:url("bnha/wrapper.jpg");}
+	
+	#header{height:333px; width:1000px; background-image:url(bnha/header.jpg);}
+	
+	#menu{border:1px orange solid; background-color:orange; height:50px; width:1000px; margin-top:5px;}
+		#menu ul li{text-align:center; width:200px; float:left; list-style:none; padding-top:17.5px; padding bottom:17.5px; font-size:16px;}
+		#menu ul li a{text-decoration:none; display:block;}
+		#menu a: hover{color:pink; !important;}
+	
+#content4{width:960px; height:570px; margin-top:20px;padding-left:20px; padding-right:20px; text-align:justify; background-image:url("bnha/dekuloli.jpg");}
+#content4 h1{margin-top:10px; padding-bottom:10px; padding-top: 10px; text-align:center;}
+#content4 h2{padding-top:10px; padding-bottom:10px;}
+#content4 img{float:left; padding-right:10px;}
+
+#content5{width:960px; height:500px; margin-top:50px; padding-left:20px; padding-right:20px; text-align:justify; background-image: url("bnha/bakugou.jpg");}
+#content5 h1{margin-top:10px; padding-bottom:10px; padding-top: 10px; text-align:center;}
+#content5 h2{padding-top:10px; padding-bottom:10px;}
+#content5 img{float:right; padding-left:10px;}
+
+#content6{width:960px; height:500px;margin-top: 50px; padding-left:20px; padding-right:20px; text-align:justify; background-image: url("bnha/ochakolol.jpg");}
+#content6 h1{margin-top:10px; padding-bottom:10px; padding-top: 10px; text-align:center;}
+#content6 h2{padding-top:10px; padding-bottom:10px;}
+#content6 img{float:left; padding-right:10px;}
+
+#content14 {width:960px; height:670px;margin-top: 50px; padding-left:20px; padding-right:20px; text-align:justify; background-image: url("bnha/image.jpg");}
+#content14 h1{margin-top:10px; padding-bottom:10px; padding-top: 10px; text-align:center;}
+#content14 h2{padding-top:10px; padding-bottom:10px;}
+#content14 img{float:right; padding-left:10px;}
+
+#footer{font-size:20px; text-align:center; margin-top:20px;}
+/*************************************************************************************************************/
+/*GALLERY*/
+*{margin:0px; padding:0px;}
+	body{background-image:url(bnha/66ff42c5260d8adad9e9d4eff3ef7e7e.jpg);}
+	
+	#wrapper{width:1000px; min-height:2500px; margin:auto; background-image:url("bnha/wrapper.jpg");}
+	
+	#header{height:333px; width:1000px; background-image:url(bnha/header.jpg);}
+	
+	#menu{border:1px orange solid; background-color:orange; height:50px; width:1000px; margin-top:5px;}
+		#menu ul li{text-align:center; width:200px; float:left; list-style:none; padding-top:17.5px; padding bottom:17.5px; font-size:16px;}
+		#menu ul li a{text-decoration:none; display:block;}
+		#menu a: hover{color:pink; !important;}
+
+#content7{float: left; width:480px; height:1850px; margin-top:20px; margin-left:15px; margin-bottom: 20px; padding-left:20px; padding-right:20px; background-image:url(bnha/loliho.jpg);}
+#content7 p{padding-left:10px; padding-right:10px; text-align:center; font-size:18px;}
+#content7 h1{text-align:center;}
+#content7 h2{text-align:center; padding-top: 10px;}
+#content7 img{display: block; margin-left: auto; margin-right: auto; width:450px; padding-top:10px;}
+
+#content9 {margin-top:20px; width:400px; height:600px; margin-right:10px; padding-left:20px; padding-right:20px;float: right; background-image: url(bnha/4kwSR4H.jpg);}
+#content9 h1{text-align: center; padding-bottom: 20px;padding-top: 10px;}
+#content9 img{width:300px; height:300px;display: block; margin-left: auto;margin-right: auto; padding-top:30px;}
+
+#content15{margin-top:20px; width:400px; height:1230px; margin-right:10px; padding-left:20px; padding-right:20px;float: right; background-image:url(bnha/83f2e272b56dc7ccbefb4bc8eea87806.jpg); margin-bottom: 20px;}
+#content15 p{padding-left:10px; padding-right:10px; text-align:center; font-size:18px; padding-bottom: 10px; padding-top: 10px;}
+#content15 h1{text-align:center; padding-top: 10px; color: cadetblue;}
+#content15 h2{text-align:center; padding-top: 10px;}
+#content15 img{display: block; margin-left: auto;margin-right: auto; width:400px; padding-top:20px;}
+
+#footer{font-size:20px; text-align: center;}
+/*************************************************************************************************************/
+/*HOMEPAGE*/
+*{margin:0px; padding:0px;}
+	body{background-image:url(bnha/66ff42c5260d8adad9e9d4eff3ef7e7e.jpg);}
+	
+	#wrapper{width:1000px; min-height:2500px; margin:auto; background-image:url("bnha/wrapper1.jpg");}
+
+	#header{height:333px; width:1000px; background-image:url(bnha/header.jpg);}
+	
+	#menu{border:1px orange solid; background-color:orange; height:50px; width:1000px; margin-top:5px;}
+		#menu ul li{text-align:center; width:200px; float:left; list-style:none; padding-top:17.5px; padding bottom:17.5px; font-size:16px;}
+		#menu ul li a{text-decoration:none; display:block;}
+		#menu a: hover{color:pink; !important;}
+
+#content10{text-align:center; margin-top:10px; font-size:20px; height:440px;}
+#content10 h1{color:#8E1C1E;}
+#content10 p{color:#C55124;}
+#content10 img{padding-top:10px;}
+
+#content13{width:480px; height:400px; margin-top:20px; margin-left:15px; margin-right: 10px; padding-left:20px; padding-right:20px; float:left; background-image:url("bnha/bibi.jpg"); background-repeat: no-repeat;}
+#content13 h1{text-align: center; padding-top: 10px;}
+#content13 ul{text-align: justify; list-style: inherit; font-size:18px; padding-top: 15px;}
+
+#content11{width:480px; height:500px; margin-top:20px; margin-left:15px; margin-right: 10px; margin-bottom: 20px; padding-left:20px; padding-right:20px; float:left; background-color:wheat;}
+#content11 h1{text-align: center; padding-top: 10px; color: red;}
+#content11 h2{text-align: center; color: aqua;}
+#content11 img{width:350px; align-items:center;padding-right:10px; padding-left:10px; padding-top:20px;  display: block; margin-left: auto;margin-right: auto;}
+#content11 p{text-align: justify;padding-top: 20px; font-size: 18px;}
+
+#content12{width:390px; height:920px; margin-top:20px; margin-left:10px; margin-right: 15px; padding-left:20px; padding-right:20px; float:right; background-image: url("bnha/lolz.jpg"); margin-bottom:20px;}
+#content12 h1{text-align: center; padding-top: 10px;}
+#content12 p{text-align: center;padding-top: 15px; font-size: 18px;}
+#content12 img{padding-top:20px; padding-bottom:10px; display: block; margin-left: auto;margin-right: auto;}
+
+#footer{font-size:20px; text-align:center; margin-top:20px;}
